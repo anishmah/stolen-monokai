@@ -1,0 +1,22 @@
+{
+  "name": "stolen-monokai",
+  "displayName": "stolen monokai",
+  "description": "A stolen monokai theme",
+  "version": "0.0.2",
+  "publisher": "anish",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "stolen-monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anish-color-theme.json"
+      }
+    ]
+  }
+}
