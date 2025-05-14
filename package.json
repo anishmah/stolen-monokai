@@ -2,7 +2,7 @@
   "name": "stolen-monokai",
   "displayName": "stolen monokai",
   "description": "A stolen monokai theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "anish",
   "engines": {
     "vscode": "^1.99.0"
